@@ -23,17 +23,13 @@
 ![Microsoft Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=azure-devops&logoColor=white) 
 ![Security Onion](https://img.shields.io/badge/Security%20Onion-003366?style=for-the-badge&logoColor=white)
 
-# 🛡️ Security & Compliance:
-![IAM](https://img.shields.io/badge/IAM-%23000000.svg?style=for-the-badge&logo=auth0&logoColor=white) 
-![OAuth](https://img.shields.io/badge/OAuth%202.0-3C3C3D?style=for-the-badge&logo=openid&logoColor=white)  
-**NIST | GDPR | PCI DSS | HIPAA | PII | OWASP Top 10 | SOC Operations | SIEM/SOAR | Incident Response | Security Hardening **
 
-# 🏆 Certifications & Training:
-![Security+](https://img.shields.io/badge/CompTIA%20Security%2B-%23E60000.svg?style=for-the-badge&logo=CompTIA&logoColor=white)  
-![Tech+](https://img.shields.io/badge/CompTIA%20Tech%2B-%230078D6.svg?style=for-the-badge&logo=CompTIA&logoColor=white)  
-![ISC2 CC](https://img.shields.io/badge/ISC2%20CC-%23006666.svg?style=for-the-badge&logo=ISC2&logoColor=white)  
-![MS-900](https://img.shields.io/badge/Microsoft%20MS--900-2D89EF?style=for-the-badge&logo=microsoft&logoColor=white)  
-![AZ-900](https://img.shields.io/badge/Microsoft%20AZ--900-0089D6?style=for-the-badge&logo=azure-devops&logoColor=white)  
+## 🏆 Certifications & Training:
+- **CompTIA Security+ (SY0-701)**  
+- **CompTIA Tech+ (FC0-U71)**  
+- **ISC2 Certified in Cybersecurity (CC)**  
+- **Microsoft Fundamentals (MS-900)**  
+- **Azure Fundamentals (AZ-900)**  
 - And a lot more...  
 
 ### ✍️ Random Dev Quote
