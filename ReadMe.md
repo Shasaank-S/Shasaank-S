@@ -1,10 +1,6 @@
 # 💫 About Me:
-🔭 I’m currently working on supporting the **TechBridge Initiative at ASU** as Director of Technology — ensuring secure, malware-free device donations and providing strategic technology insights.  
-🤝 I’m looking to collaborate on **Cybersecurity projects, cloud security research, and IT governance initiatives** that improve resilience and efficiency.  
-🫱 I’m looking for help with deepening expertise in **SOC operations, SIEM/SOAR tools, and advanced incident response techniques**.  
-🌱 I’m currently learning **Hardware Security & Trust, Applied Cryptography, and Computer Network Security** as part of my Master’s in Computer Engineering.  
-💬 Ask me about **CompTIA Security+, Cybersecurity, IAM/SSO, vulnerability management, and network security**.  
-⚡ Fun fact: **Adobe Student Ambassador at ASU** | Ranked in the **Top 18%** out of 3.2M+ users on TryHackMe.  
+🔭 I’m currently working on<br>Supporting the TechBridge Initiative at ASU as Director of Technology - ensuring secure, malware-free device donations and providing strategic technology insights.<br><br>🤝 I’m looking to collaborate on<br>Cybersecurity projects, cloud security research, and IT governance initiatives that improve resilience and efficiency.<br><br>🫱 I’m looking for help with<br>Deepening expertise in SOC operations, SIEM/SOAR tools, and advanced incident response techniques.<br><br>🌱 I’m currently learning<br>Hardware Security & Trust, Applied Cryptography, and Computer Network Security as part of my Master’s in Computer Engineering.<br><br>💬 Ask me about<br>CompTIA Security+, Cybersecurity, vulnerability management, IAM/SSO, and network security.<br><br>⚡ Fun fact<br>Adobe Student Ambassador at Arizona State University<br>Ranked in the top 18% out of 3.2M+ users on TryHackMe.<br>
+
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/shasaank_sridhar) 
