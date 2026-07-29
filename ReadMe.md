@@ -1,40 +1,36 @@
 <div align="center">
   <h1>Hi there! I'm Shasaank Sridhar 👋</h1>
-  <h3>Cybersecurity Analyst & Security Researcher</h3>
+  <h4><i><span style="color:grey;">Cybersecurity Analyst & Security Researcher</span></i></h4>
   <p><strong>Phoenix, AZ</strong> • <strong>Security+ Certified</strong></p>
   
   <a href="https://shasaanksridhar.me/" target="_blank">
-    <img src="https://img.shields.io/badge/View_Interactive_Portfolio-0b1220?style=for-the-badge&logo=Web&logoColor=00E5FF" alt="Portfolio" />
+    <img src="https://img.shields.io/badge/🌐_View_Interactive_Portfolio-00E5FF?style=for-the-badge&logoColor=white" alt="Portfolio" />
   </a>
 </div>
 
 <br>
 
-# 💫 About Me:
-- 🔭 **I’m currently working on**: Supporting the **TechBridge Initiative at ASU** as **Technology Lead** — leading device inspection, malware sanitization, and technology distribution for underserved communities.
-- 🤝 **I’m looking to collaborate on**: SOC operations, SIEM/SOAR automation, vulnerability management, threat hunting, and threat intelligence initiatives.
-- 🫱 **I’m looking for help with**: Advanced incident response workflows, automated playbooks, and cloud security posture management.
-- 🌱 **I’m currently learning**: **CompTIA CySA+**, expanding my home SOC lab (Splunk + Sentinel + Wazuh + pfSense), and tackling blue team labs on TryHackMe & HTB.
-- 💬 **Ask me about**: Splunk SPL, Security+, Wazuh SIEM, network forensics, email security (SPF/DKIM/DMARC), and vulnerability analysis.
-- ⚡ **Fun fact**: Ranked in the **Top 3% out of 4.6M+ users** on TryHackMe, and served as an Adobe Student Ambassador at Arizona State University!
+# 💫 About Me
+
+- 🔭 **Currently building**: An **Identity & Access Management (IAM) Home Lab** with **Microsoft Entra ID** — configuring Conditional Access policies, RBAC, and identity governance workflows.
+- 🛡️ **Core focus**: SOC operations, SIEM/SOAR automation (Splunk, Sentinel, Wazuh), threat hunting, and vulnerability management.
+- 🌱 **Studying for**: **CompTIA CySA+** — deepening blue team skills across detection engineering and incident response.
+- ⚡ **Fun fact**: **Top 3% out of 4.6M+ users** on TryHackMe • Adobe Student Ambassador @ ASU.
 
 <br>
 
-## 🌐 Connect & Publications:
-[![Portfolio](https://img.shields.io/badge/Portfolio-0b1220?style=for-the-badge&logo=react&logoColor=61DAFB)](https://shasaanksridhar.me/)
-[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@shasaanksridhar)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/shasaank-sridhar)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shasaanksridhar@outlook.com) 
-[![TryHackMe](https://img.shields.io/badge/TryHackMe-111928?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/StarHawk3r)
-
-<br>
-
-## 📝 Recent Articles & Technical Write-ups:
+## 📝 Recent Articles & Technical Write-ups
+- ✍️ **[Dissecting a Malicious ISO Phishing Email — A Complete SOC Analyst Investigation](https://medium.com/@shasaanksridhar/dissecting-a-malicious-iso-phishing-email-a-complete-soc-analyst-investigation-b9eca2d17224)** — *Published on Medium*
 - ✍️ **[Deloitte Cybersecurity Job Simulation on Forage: How I Investigated a Data Breach Through Raw Logs](https://medium.com/@shasaanksridhar/deloitte-cybersecurity-job-simulation-on-forage-how-i-investigated-a-data-breach-through-raw-log-3e31ba923d59)** — *Published on Medium*
 
 <br>
 
-## 💻 Tech Stack & Security Tools:
+## 💻 Tech Stack & Security Tools
+
+**Identity & Access Management (IAM)**  
+![Microsoft Entra ID](https://img.shields.io/badge/Microsoft_Entra_ID-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Active Directory](https://img.shields.io/badge/Active_Directory-003366?style=for-the-badge&logo=windows&logoColor=white)
+![Conditional Access](https://img.shields.io/badge/Conditional_Access-5C2D91?style=for-the-badge&logo=microsoftazure&logoColor=white)
 
 **Defensive Security & SIEM / SOAR**  
 ![Splunk](https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white) 
@@ -66,7 +62,7 @@
 
 <br>
 
-## 🏆 Certifications & Professional Training:
+## 🏆 Certifications & Professional Training
 - 🏅 **Splunk Core Certified User**
 - 🛡️ **CompTIA Security+ ce (SY0-701)**
 - 🔒 **ISC² Certified in Cybersecurity (CC)**
@@ -84,7 +80,16 @@
 ### ✍️ Cybersecurity Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
 
+<br>
+
+## 🌐 Connect with Me
+[![Portfolio](https://img.shields.io/badge/Portfolio-0b1220?style=for-the-badge&logo=react&logoColor=61DAFB)](https://shasaanksridhar.me/)
+[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@shasaanksridhar)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/shasaank-sridhar)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shasaanksridhar@outlook.com) 
+[![TryHackMe](https://img.shields.io/badge/TryHackMe-111928?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/StarHawk3r)
+
 ---
 [![](https://visitcount.itsvg.in/api?id=Shasaank-S&icon=0&color=0)](https://visitcount.itsvg.in)  
 
-##### Let’s connect on [LinkedIn](https://www.linkedin.com/in/shasaank-sridhar/)
+##### Let's connect on [LinkedIn](https://www.linkedin.com/in/shasaank-sridhar/)
