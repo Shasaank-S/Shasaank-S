@@ -4,7 +4,7 @@
   <p><strong>Phoenix, AZ</strong> • <strong>Security+ Certified</strong></p>
   
   <a href="https://shasaanksridhar.me/" target="_blank">
-    <img src="https://img.shields.io/badge/🌐_View_Interactive_Portfolio-00E5FF?style=for-the-badge&logoColor=white" alt="Portfolio" />
+    <img src="https://img.shields.io/badge/🌐_View_Interactive_Portfolio-0F4C81?style=for-the-badge&logoColor=white" alt="Portfolio" />
   </a>
 </div>
 
