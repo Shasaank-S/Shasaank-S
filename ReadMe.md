@@ -22,7 +22,6 @@
 ## 📝 Recent Articles & Technical Write-ups
 - ✍️ **[Malicious ISO Phishing Email — A Complete SOC Analyst Investigation](https://medium.com/@shasaanksridhar/dissecting-a-malicious-iso-phishing-email-a-complete-soc-analyst-investigation-b9eca2d17224)** — *Published on Medium*
 - ✍️ **[How I Investigated a Data Breach Through Raw Logs - Deloitte Cybersec Job Simulation on Forage: ](https://medium.com/@shasaanksridhar/deloitte-cybersecurity-job-simulation-on-forage-how-i-investigated-a-data-breach-through-raw-log-3e31ba923d59)** — *Published on Medium*
-
 <br>
 
 ## 💻 Tech Stack & Security Tools
