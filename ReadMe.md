@@ -12,7 +12,7 @@
 
 # 💫 About Me
 
-- 🔭 **Currently building**: An **Identity & Access Management (IAM) Home Lab** with **Microsoft Entra ID** — configuring Conditional Access policies, RBAC, and identity governance workflows.
+- ⚡ **Featured Project**: [Identity & Access Management (IAM) Home Lab](https://github.com/Shasaank-S/Entra-ID-Identity-Access-Management-IAM-Home-Lab) with **Microsoft Entra ID** — configured Conditional Access policies, RBAC, and Zero Trust security controls.
 - 🛡️ **Core focus**: SOC operations, SIEM/SOAR automation (Splunk, Sentinel, Wazuh), threat hunting, and vulnerability management.
 - 🌱 **Studying for**: **CompTIA CySA+** — deepening blue team skills across detection engineering and incident response.
 - ⚡ **Fun fact**: **Top 3% out of 4.6M+ users** on TryHackMe • Adobe Student Ambassador @ ASU.
